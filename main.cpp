@@ -27,4 +27,4 @@ float a, b, c, d, e, f, g;
     	cout << " Masukan Tahun lahir ="; 
         	cin >> f;
         g = 2023 - f;
-        cout << " Usa anda = "<<g; }
+        cout << " Usia anda = "<<g; }
